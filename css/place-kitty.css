@@ -12,8 +12,8 @@
 /*__write_selector_here__*/ {
   position: absolute;
   z-index: 2;
-  top: 22px;
-  left: 39px;
+  top: 212px;
+  left: 369px;
 }
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
